@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D237E1D1-5220-928E-8E83-0E849D84DBAD}</ProjectGuid>
+    <ProjectGuid>{917049B1-C44B-4BB9-6F23-2C358BF99D3C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Services.Core.Scheduler</AssemblyName>
@@ -659,15 +659,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Services.Core.Internal.Player.csproj">
-      <Project>{2AE92E90-2E77-334A-90F1-2C296E73B7B9}</Project>
+      <Project>{FACD2D6E-A977-162C-5382-00429F781763}</Project>
       <Name>Unity.Services.Core.Internal.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Player.csproj">
-      <Project>{63147F13-1105-AA72-588C-9AF8F441D304}</Project>
+      <Project>{1D12DBE1-7328-DF34-5C5C-94AB3A885DC5}</Project>
       <Name>Unity.Services.Core.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{2A1DD8E4-F382-16E2-A6C5-D5930010856E}</Project>
+      <Project>{27939E95-9424-371A-B992-B942253CE29C}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
