@@ -11,6 +11,6 @@ TBH, I don't know yet. I would like to use my C# skills in practice, so I believ
 For now, the game has not been built yet, so to run the project you will need the following:
 1. [Unity Engine](https://unity.com/) (latest version of the engine)
 2. IDE/Code Editor, I use [Visual Studio](https://visualstudio.microsoft.com/)
-3. (optional) for models' modification use [Blender](https://www.blender.org/)
+3. (optional) for models' modification use [Gimp](https://www.gimp.org/)
 
 # You are welcome to contribute!
