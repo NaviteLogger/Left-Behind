@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0EEF1634-8C68-21C4-F447-607CC51D9638}</ProjectGuid>
+    <ProjectGuid>{25BC10BC-79BF-9569-C962-27CF7553650F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Services.Core.Networking</AssemblyName>
@@ -655,15 +655,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Services.Core.Player.csproj">
-      <Project>{1D12DBE1-7328-DF34-5C5C-94AB3A885DC5}</Project>
+      <Project>{63147F13-1105-AA72-588C-9AF8F441D304}</Project>
       <Name>Unity.Services.Core.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Internal.Player.csproj">
-      <Project>{FACD2D6E-A977-162C-5382-00429F781763}</Project>
+      <Project>{2AE92E90-2E77-334A-90F1-2C296E73B7B9}</Project>
       <Name>Unity.Services.Core.Internal.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{27939E95-9424-371A-B992-B942253CE29C}</Project>
+      <Project>{2A1DD8E4-F382-16E2-A6C5-D5930010856E}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
