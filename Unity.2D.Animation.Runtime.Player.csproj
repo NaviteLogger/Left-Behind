@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{15D75A2F-5F82-5ACA-51BE-7D8C17E97A9F}</ProjectGuid>
+    <ProjectGuid>{5784301A-05D4-DCAD-A2B5-34370E715A0A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Runtime</AssemblyName>
@@ -670,23 +670,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Common.Runtime.Player.csproj">
-      <Project>{BADC39A9-12E0-6306-246F-7C4EE1C1594D}</Project>
+      <Project>{792C93D4-E205-8492-AF7C-7791BFBCF15E}</Project>
       <Name>Unity.2D.Common.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.Player.csproj">
-      <Project>{71996954-37B0-7F4A-3710-FC7FAD7ED9F4}</Project>
+      <Project>{EEAFF61B-ABCA-A0EA-1339-1EF1ECDD3C0E}</Project>
       <Name>Unity.InternalAPIEngineBridge.001.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Player.csproj">
-      <Project>{94DD1F5D-3EC6-8E19-663F-B9BF4A10C9C2}</Project>
+      <Project>{A5A74060-71B7-AA6D-BD0F-4FAD31293AA4}</Project>
       <Name>Unity.Mathematics.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Player.csproj">
-      <Project>{87B60487-3C77-100C-9490-37D1C1CCA9B8}</Project>
+      <Project>{357081C2-4E85-B2E0-CFD0-A98526844DD5}</Project>
       <Name>Unity.Burst.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{2A1DD8E4-F382-16E2-A6C5-D5930010856E}</Project>
+      <Project>{27939E95-9424-371A-B992-B942253CE29C}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
